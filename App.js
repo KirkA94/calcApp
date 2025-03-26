@@ -1,16 +1,17 @@
+//THIS IS THE HTML SETUP
+
+
+
+
 import("./styles.css")
 
 
 function App() {
     return (
-<div className = "Calculator">
+<div className = "calculator-grid">
   <div className = "Output">
     <div ClassName = "previous-operand"></div>
 <div className= "current operand"></div>
-
-
-
-
 
 
 
